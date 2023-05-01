@@ -1,0 +1,21 @@
+.btn {
+  color: #7b8794;
+  margin-right: 15px;
+  border-bottom: #7b8794;
+  border-width: 5px;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  padding: 15px;
+  background-color: transparent;
+  font-size: 32px;
+}
+.btn-icon {
+  border-bottom: #2563eb;
+  border-width: 5px;
+  border-style: solid;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}

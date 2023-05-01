@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-image: linear-gradient(to bottom, #fff1eb, #ace0f9);
+  height: 100vh;
+  padding: 20px;
+  text-align: center;
+  font-family: Bree Serif;
+}
+
+.input-card {
+  display: flex;
+  align-items: center;
+  border-width: 1px;
+  width: 12%;
+  border-color: #1e293b;
+  border-style: solid;
+  background-color: transparent;
+  border-radius: 5px;
+}
+.app-store {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.image-card {
+  height: 24px;
+}
+.input-icon {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+.heading-card {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.item-card {
+  display: flex;
+  list-style: none;
+  flex-wrap: wrap;
+  justify-content: center;
+}

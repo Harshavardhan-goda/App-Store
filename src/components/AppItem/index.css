@@ -1,0 +1,19 @@
+.list-item-card {
+  background-color: #ffffff;
+  width: 350px;
+  border-radius: 8px;
+  padding: 10px;
+  margin-right: 5px;
+}
+.image {
+  height: 80px;
+}
+.li-card {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  background-color: #ffffff;
+  width: 350px;
+  border-radius: 8px;
+  padding: 10px;
+  margin-right: 5px;
+}
